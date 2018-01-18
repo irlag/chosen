@@ -19,7 +19,9 @@
     "node": ">=4"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "watch": "grunt watch",
+    "build": "grunt build"
   },
   "dependencies": {},
   "devDependencies": {

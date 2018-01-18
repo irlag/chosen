@@ -1,8 +1,7 @@
+./.idea/
 .DS_Store
 node_modules
 .project
-public/*.js
-public/*.css
 public/*.json
 chosen*.zip
 .sass-cache
